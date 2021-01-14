@@ -2,7 +2,6 @@
 print("hello");
 print("hello");
 print("wngwngwngwng");
-print("wngwngwngwng");
-print("wngwngwngwng");
-print("wngwngwngwng");
+print("hello");
+print("hello");
 
